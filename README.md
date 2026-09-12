@@ -1,2 +1,2 @@
 # Paul-s-shop
-cart shopping 
+cart shopping system that makes online shopping easy
